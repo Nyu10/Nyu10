@@ -3,7 +3,9 @@
 )](https://www.linkedin.com/in/nehemiah-yu/)
 # Hey, everyone! <img src="https://github.com/Nyu10/Nyu10/blob/483fd5dc288a53ae1cbf89b033b06ec821c1c1f1/wave.gif" width="30px">
 
-### ❤️ I’m open to summer 2022 internship opportunities! (https://www.linkedin.com/in/nehemiah-yu/)
+### ❤️ I’m open to summer 2022 internship opportunities! 
+
+Linkedin: <a href="https://www.linkedin.com/in/nyu10/">
 
 
 〽️ I'm a student at the University of Michigan dualing in computer science and cognitive science.
@@ -13,8 +15,11 @@
 🔥 I’m currently doing research at Michigan Medicine Cell & Developmental Biology Labs on Super Image Resolution Generative Adversarial Networks (SRGAN) for lab microscopy and also developing the <a href="https://platform.michiganinvestmentgroup.com/">Michigan Investing Group Platform</a>. 
 
 🏓 I'm a competitive table tennis player too!
+
 [1]: Top 3 in NYC High Schools Boys
+
 [2]: Top 200 Nationally U18 Boys
+
 [3]: Represent University of Michigan Table Tennis Team in National Collegiate Table Tennis League
 
 
