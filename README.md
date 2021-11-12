@@ -1,6 +1,6 @@
-### Hi there 👋
-
 [![Header](https://github.com/Nyu10/Nyu10/blob/760a095621cd935b184505dc4f4af52f14ecd105/Github%20banner.png)](https://www.linkedin.com/in/nehemiah-yu/)
+# Hey, everyone! <img src="https://github.com/Nyu10/Nyu10/blob/483fd5dc288a53ae1cbf89b033b06ec821c1c1f1/wave.gif" width="30px">
+
 
 <!--
 **Nyu10/Nyu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
