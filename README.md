@@ -5,7 +5,7 @@
 
 ### ❤️ I’m open to summer 2022 internship opportunities! 
 
-Linkedin: <a href="https://www.linkedin.com/in/nyu10/"> </a>
+ <a href="https://www.linkedin.com/in/nyu10/"> Linkedin </a>
 
 
 〽️ I'm a student at the University of Michigan dualing in computer science and cognitive science.
