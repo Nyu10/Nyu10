@@ -3,7 +3,9 @@
 )](https://github.com/nyu10/github-readme-stats)
 # Hey, everyone! <img src="https://github.com/Nyu10/Nyu10/blob/483fd5dc288a53ae1cbf89b033b06ec821c1c1f1/wave.gif" width="30px">
 
-❤️ I’m open to summer 2022 internship opportunities!
+### ❤️ I’m open to summer 2022 internship opportunities!
+
+
 〽️ I'm a student at the University of Michigan dualing in computer and cognitive science.
 
 ## Current Work
