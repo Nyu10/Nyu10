@@ -1,12 +1,12 @@
 [![Header](https://github.com/Nyu10/Nyu10/blob/760a095621cd935b184505dc4f4af52f14ecd105/Github%20banner.png)](https://www.linkedin.com/in/nehemiah-yu/)
 [![Nehemiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyu10&hide=stars,prs,issues&count_private=true&show_icons=true
-)](https://github.com/nyu10/github-readme-stats)
+)](https://www.linkedin.com/in/nehemiah-yu/)
 # Hey, everyone! <img src="https://github.com/Nyu10/Nyu10/blob/483fd5dc288a53ae1cbf89b033b06ec821c1c1f1/wave.gif" width="30px">
 
-### ❤️ I’m open to summer 2022 internship opportunities!
+### ❤️ I’m open to summer 2022 internship opportunities! (https://www.linkedin.com/in/nehemiah-yu/)
 
 
-〽️ I'm a student at the University of Michigan dualing in computer and cognitive science.
+〽️ I'm a student at the University of Michigan dualing in computer science and cognitive science.
 
 ## Current Work
 
@@ -32,7 +32,7 @@
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
 
-<!-- Links to your social media accounts -->
+## Reach out to me!
 [1]: https://www.linkedin.com/in/nyu10/
 <!--
 **Nyu10/Nyu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
