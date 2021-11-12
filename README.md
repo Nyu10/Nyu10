@@ -5,7 +5,7 @@
 
 ### ❤️ I’m open to summer 2022 internship opportunities! 
 
- <a href="https://www.linkedin.com/in/nyu10/"> Linkedin </a>
+ <a href="https://www.linkedin.com/in/nehemiah-yu/"> Linkedin </a>
 
 
 〽️ I'm a student at the University of Michigan dualing in computer science and cognitive science.
@@ -38,7 +38,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
 
 ## Reach out to me!
-[1]: https://www.linkedin.com/in/nyu10/
+[1]: https://www.linkedin.com/in/nehemiah-yu/
 <!--
 **Nyu10/Nyu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
