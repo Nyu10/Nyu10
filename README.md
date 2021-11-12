@@ -38,7 +38,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
 
 ## Reach out to me!
-<a href=" https://www.linkedin.com/in/nehemiah-yu/"> Linkedin </a>
+ <a href="https://www.linkedin.com/in/nehemiah-yu/"> Linkedin </a>
 <!--
 **Nyu10/Nyu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
