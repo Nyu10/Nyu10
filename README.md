@@ -1,5 +1,5 @@
 [![Header](https://github.com/Nyu10/Nyu10/blob/760a095621cd935b184505dc4f4af52f14ecd105/Github%20banner.png)](https://www.linkedin.com/in/nehemiah-yu/)
-[![Nehemiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyu10&hide=stars,prs,issues)](https://github.com/nyu10/github-readme-stats)
+[![Nehemiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyu10&hide=stars,prs,issues&count_private=true)](https://github.com/nyu10/github-readme-stats)
 # Hey, everyone! <img src="https://github.com/Nyu10/Nyu10/blob/483fd5dc288a53ae1cbf89b033b06ec821c1c1f1/wave.gif" width="30px">
 
 
